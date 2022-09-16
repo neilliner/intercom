@@ -28,7 +28,7 @@
     "dist/",
     "ios/",
     "android/",
-    "CapacitorCommunityIntercom.podspec"
+    "CapacitorIntercomSupport.podspec"
   ],
   "keywords": [
     "capacitor",
@@ -45,12 +45,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/capacitor-community/intercom.git"
+    "url": "git+https://github.com/neilliner/intercom.git"
   },
   "bugs": {
-    "url": "https://github.com/capacitor-community/intercom/issues"
+    "url": "https://github.com/neilliner/intercom/issues"
   },
-  "homepage": "https://github.com/capacitor-community/intercom#readme",
+  "homepage": "https://github.com/neilliner/intercom#readme",
   "directories": {
     "example": "example"
   }

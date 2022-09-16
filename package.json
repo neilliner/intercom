@@ -1,7 +1,7 @@
 {
-  "name": "@capacitor-community/intercom",
-  "version": "1.1.0",
-  "description": "Enable Intercom features for Capacitor apps",
+  "name": "capacitor-intercom-support",
+  "version": "0.0.1",
+  "description": "A Capacitor plugin for Intercom",
   "main": "dist/esm/index.js",
   "types": "dist/esm/index.d.ts",
   "scripts": {
@@ -15,7 +15,7 @@
     "contributors:add": "all-contributors add",
     "contributors:gen": "all-contributors generate"
   },
-  "author": "Stewan Silva",
+  "author": "Piyoros Vephula",
   "license": "MIT",
   "dependencies": {
     "@capacitor/core": "^2.0.0"
@@ -45,9 +45,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/capacitor-community/intercom"
+    "url": "git+https://github.com/capacitor-community/intercom.git"
   },
   "bugs": {
     "url": "https://github.com/capacitor-community/intercom/issues"
+  },
+  "homepage": "https://github.com/capacitor-community/intercom#readme",
+  "directories": {
+    "example": "example"
   }
 }

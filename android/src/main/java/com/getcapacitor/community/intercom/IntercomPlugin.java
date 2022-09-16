@@ -1,6 +1,6 @@
 package com.getcapacitor.community.intercom;
 
-import com.getcapacitor.Config;
+// import com.getcapacitor.Config;
 import com.getcapacitor.NativePlugin;
 import com.getcapacitor.Plugin;
 import com.getcapacitor.PluginCall;

@@ -7,12 +7,12 @@ target 'Plugin' do
 
   # Pods for IonicRunner
   pod 'Capacitor'
-  pod 'Intercom'
+  pod 'Intercom', '12.4.3'
 end
 
 target 'PluginTests' do
   use_frameworks!
 
   pod 'Capacitor'
-  pod 'Intercom'
+  pod 'Intercom', '12.4.3'
 end
